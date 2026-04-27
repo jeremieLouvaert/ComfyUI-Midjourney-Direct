@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-midjourney-direct"
+description = "Midjourney image generation in ComfyUI via the LegNext.ai pool-based proxy — pay-as-you-go, no Discord required"
+version = "0.1.0"
+license = { file = "LICENSE" }
+dependencies = ["requests", "Pillow", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/jeremieLouvaert/ComfyUI-Midjourney-Direct"
+
+[tool.comfy]
+PublisherId = "akurate"
+DisplayName = "ComfyUI Midjourney Direct"
+Icon = ""
