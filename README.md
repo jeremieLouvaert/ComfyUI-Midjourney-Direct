@@ -1,5 +1,7 @@
 # ComfyUI Midjourney Direct
 
+![ComfyUI Midjourney Direct](assets/hero.jpg)
+
 Use Midjourney inside ComfyUI workflows. No Discord required.
 
 Midjourney has no official public API. This pack wraps **LegNext.ai**, a pool-based Midjourney proxy that supplies the upstream MJ accounts so you don't need a Discord-side subscription. Pay-as-you-go at roughly $0.08 per v8.1 fast image, no monthly minimum.
